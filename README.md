@@ -1,6 +1,6 @@
 # SoBA Web Curriculum
 
-### Lesson 6: jQuery and Underscore.js
+### Lesson 6: Into to Parse
 
 
 #### Overview
