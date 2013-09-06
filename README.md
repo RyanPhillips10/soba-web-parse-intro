@@ -41,7 +41,7 @@ In addition you may refer to the included example.html file, which contains the 
 
 #### Your data set
 
-You should create a Class in your Parse Application's Data Browser called person. Add columns for
+You should create a Class in your Parse Application's Data Browser called Person. Add columns for
 
 	firstName [String], lastName [String], age [Number], favoriteMusic [String], sex [Number:0|1]
 	
